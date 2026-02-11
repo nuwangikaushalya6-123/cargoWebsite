@@ -1,16 +1,73 @@
-# React + Vite
+#  Cargo & Logistics Website (Frontend Only)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##  Project Overview
 
-Currently, two official plugins are available:
+This project is a fully responsive Cargo & Shipping company website
+built using React (Vite) + Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It is a static frontend project designed to showcase logistics services,
+operational features, fleet gallery, and a WhatsApp-based quote request
+system.
 
-## React Compiler
+No backend integration is included in this version.
+##  Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+###  Home Page
 
-## Expanding the ESLint configuration
+-   Hero section with company tagline 
+-   Professional cargo-themed background
+-   Fixed responsive navigation bar
+-   Smooth scrolling between sections
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+###  Shipping Services
+
+-   Air Freight
+-   Ocean Freight
+-   Land Transport
+-   Express Courier
+-   Warehousing
+-   Door-to-Door Delivery
+
+Each service card includes: - Representative image
+- Service name
+- Short description
+- Sample pricing
+
+###  Operational Features
+
+-   Real-time Tracking 
+-   Global Warehousing
+-   24/7 Custom Clearance Support
+
+###  Fleet Gallery
+
+-   6--8 high-quality logistics fleet images
+-   Responsive grid layout
+
+###  Contact & Quote Request
+
+-   Company address, email, and phone number
+-   Embedded Google Map
+-   WhatsApp pre-filled booking message
+##  Tech Stack
+
+-   React (Vite)
+-   Tailwind CSS
+-   Lucide React Icons
+##  Installation Guide
+
+### 1️ Clone Repository
+
+    git clone https://github.com/your-username/cargo-website.git
+
+### 2️ Install Dependencies
+
+    npm install
+
+### 3️ Run Development Server
+
+    npm run dev
+
+## Live Demo Video
+- https://drive.google.com/file/d/1X7YOHj3NBHpi3qWxNjX69XorhCOynyRR/view?usp=sharing
+  
