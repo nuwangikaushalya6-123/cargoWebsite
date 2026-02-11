@@ -37,7 +37,7 @@ const Contact = () => {
           <div className="mt-6 space-y-3 text-white">
             <p><strong>Address:</strong> No. 45, Logistics Park, Colombo, Sri Lanka</p>
             <p><strong>Email:</strong> info@cargoco.lk</p>
-            <p><strong>Phone:</strong> +94 7X XXX XXXX</p>
+            <p><strong>Phone:</strong> +94 762701365</p>
           </div>
 
           {/* MAP */}
